@@ -2,8 +2,7 @@
 
 정보통신공학을 전공하며 데이터 처리와 네트워크 시스템에 대한 기초를 다졌고, 데이터 분석 직업훈련 과정을 통해 실무 중심의 데이터 분석 전문성을 키웠습니다.
 
-- 🌱 I’m currently learning machine learning
-- 👯 I’m looking to collaborate on data analysis
+<h3 align="center">✨ Tech Stack ✨</h3>
 
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
