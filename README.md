@@ -2,6 +2,8 @@
 
 정보통신공학을 전공하며 데이터 처리와 네트워크 시스템에 대한 기초를 다졌고, 데이터 분석 직업훈련 과정을 통해 실무 중심의 데이터 분석 전문성을 키웠습니다.
 
+<br>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
