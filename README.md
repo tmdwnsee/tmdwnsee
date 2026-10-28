@@ -32,25 +32,6 @@
 
 <br>
 
-<h3 align="center">📌 Selected Projects 📌</h3>
-
-**[ITDA · 근거 기반 기술기획 지원 RAG](https://github.com/gawonm/MatchingRND)**
-- 국가 R&D 공고의 RFP 문서 검색 파이프라인 구현 및 Supabase 연동 담당
-- 다과제 PDF의 과제 경계·요구사항 항목을 기준으로 청킹하고, 검색 근거의 맥락 유지
-- 팀 평가 기준 RFP 검색 **MRR@10 0.892** (20문항, Hybrid)
-
-**금쪽같은 LLM · 부모·자녀 감정 상담 보조**
-- 감정 분류 결과를 구조화하는 Pydantic Schema 설계 및 감정별 Tool 연동
-- 단계별 LLM 워크플로와 데이터 흐름 구현
-- 팀 측정 기준 토큰 사용량 **59.2% 감소**, 응답 지연 **49.2% 감소**
-
-**유니브릿지 · 대학 평가 기준 기반 RAG**
-- 대학 모집요강·교육과정 문서 검색 및 응답 생성 파이프라인 구현
-- OCR·문서 처리 개선과 검색 병목 분석
-- 동일 입력 기준 처리 시간 **407.9초 → 67.8초** (팀 프로젝트)
-
-<br>
-
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
